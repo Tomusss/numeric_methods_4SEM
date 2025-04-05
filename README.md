@@ -1,6 +1,8 @@
 # metody_numeryczne
 studia - laboratoria
+
 IV sem 2024/25
+
 język: python
 
 Lista 1: epsilon maszynowy, zaokrąglenia liczb
