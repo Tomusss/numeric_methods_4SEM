@@ -126,4 +126,4 @@ def zad4():
     plt.tight_layout()
     plt.show()
 
-#zad4()
+    #zad4()
